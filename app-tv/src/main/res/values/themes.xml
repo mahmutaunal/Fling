@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.Fling" parent="Theme.AppCompat.DayNight.NoActionBar" />
+</resources>

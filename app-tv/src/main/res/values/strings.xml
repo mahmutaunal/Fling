@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Fling</string>
+    <string name="tv_home_subtitle">Fast file sharing for TV Box</string>
+    <string name="tv_home_back_to_home">← Home</string>
+    <string name="tv_home_last_transfers_title">Last Transfers</string>
+    <string name="tv_home_last_transfers_desc">
+        Last 100 transfers are listed. Use the DPAD to move between cards.
+    </string>
+    <string name="tv_home_history_subtitle">View history</string>
+    <string name="tv_home_receive_from_phone_title">Receive from Phone</string>
+    <string name="tv_home_receive_from_phone_sub_active">Receiving active</string>
+    <string name="tv_home_receive_from_phone_sub_inactive">Start receiving</string>
+    <string name="tv_home_send_to_phone_title">Send to Phone</string>
+    <string name="tv_home_send_to_phone_sub_connected">Send to connected device</string>
+    <string name="tv_home_send_to_phone_sub_not_connected">Connect first</string>
+    <string name="tv_home_lan_start">Start LAN receiving</string>
+    <string name="tv_home_lan_stop">Stop LAN receiving</string>
+    <string name="tv_home_lan_subtitle">Faster on the same network</string>
+    <string name="tv_home_total_progress">Total progress: %1$s</string>
+    <string name="tv_home_status">Status: %1$s</string>
+    <string name="tv_home_folder">Folder: %1$s</string>
+    <string name="tv_home_received_count">Received: %1$d / %2$d</string>
+    <string name="pin_verify_title">PIN Verification</string>
+    <string name="pin_verify_body">
+        Is it the same as the PIN on the phone screen?
+
+        PIN: %1$s
+    </string>
+    <string name="pin_match">Matches</string>
+    <string name="pin_mismatch">Does not match</string>
+    <string name="nearby_pin_title">Nearby PIN</string>
+    <string name="lan_pin_title">LAN PIN</string>
+    <string name="nearby_pin_body">
+        PIN must match the one on the phone screen.
+
+        PIN: %1$s
+
+        Confirmation is done on the phone.
+    </string>
+    <string name="lan_pin_body">
+        The phone will connect by entering this PIN.
+
+        PIN: %1$s
+    </string>
+    <string name="ok">OK</string>
+    <string name="dir_tv_from_phone">TV ← Phone</string>
+    <string name="dir_tv_to_phone">TV → Phone</string>
+    <string name="tv_status_trusted_named">Trusted: %1$s</string>
+    <string name="tv_status_pairing_pending_named">Waiting for pairing: %1$s</string>
+    <string name="tv_status_paired_and_trusted_named">Paired and trusted: %1$s</string>
+    <string name="tv_status_paired">Paired</string>
+    <string name="tv_status_pin_mismatch_disconnected">PIN mismatch — connection closed</string>
+    <string name="tv_status_header_received_count">Header received: %1$d file(s)</string>
+    <string name="tv_status_target_folder_not_selected">Target folder not selected!</string>
+    <string name="document_create_failed">Failed to create document</string>
+    <string name="write_open_failed">Failed to open for writing</string>
+    <string name="saved_progress">Saved (%1$d/%2$d): %3$s</string>
+    <string name="tv_status_transfer_in_progress">Transfer id=%1$d: %2$d%%</string>
+    <string name="tv_status_transfer_completed_progress">
+        Completed id=%1$d — Total: %2$s
+    </string>
+    <string name="tv_status_transfer_error_id">Transfer error (id=%1$d)</string>
+    <string name="tv_status_nearby_pin_waiting_token">Waiting for Nearby PIN: %1$s</string>
+    <string name="tv_status_connection_failed">Connection failed</string>
+    <string name="tv_status_advertising">Advertising</string>
+    <string name="tv_status_advertising_failed">Failed to start advertising</string>
+    <string name="tv_status_idle">Idle</string>
+    <string name="tv_status_no_connected_phone">No connected phone</string>
+    <string name="tv_status_no_file_selected">No file selected</string>
+    <string name="tv_status_send_to_phone_started_count">
+        Sending to phone started (%1$d)
+    </string>
+    <string name="tv_status_select_target_folder_first">Select a target folder first</string>
+    <string name="tv_status_lan_pin_label">LAN PIN: %1$s</string>
+    <string name="tv_status_lan_paired_named">LAN paired: %1$s</string>
+    <string name="tv_status_lan_header_count">LAN Header: %1$d file(s)</string>
+    <string name="tv_status_lan_select_files_first">LAN: Select files on TV first</string>
+    <string name="tv_status_lan_searching_phone">LAN: Searching for phone…</string>
+    <string name="tv_status_lan_transfer_complete">LAN: Transfer complete</string>
+    <string name="tv_status_lan_error">LAN: Error</string>
+</resources>

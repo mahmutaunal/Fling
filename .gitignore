@@ -1,0 +1,155 @@
+##############################
+# Android & Kotlin Projects  #
+##############################
+
+# Java / Kotlin / Bytecode
+*.class
+*.dex
+*.jar
+*.war
+*.ear
+*.iml
+
+# Build outputs
+/build/
+app/build/
+/app-tv/build/
+/app-phone/build/
+/core/build/
+
+# Gradle cache & generated files
+.gradle/
+gradle-app.setting
+!gradle-wrapper.jar
+/local.properties
+
+# Compose compiler caches
+*/build/
+*.kotlin_module
+**/compose-artifacts/
+**/compose-compiler/
+
+# KAPT generated
+**/build/generated/source/kapt/
+**/build/tmp/kapt3/
+
+#############################
+# Android Studio / IntelliJ #
+#############################
+
+.idea/
+.idea/*
+*.ipr
+*.iws
+*.swp
+
+# Other IDE caches
+/.settings/
+.vscode/
+/caches/
+/*.code-workspace
+
+#####################
+# OS & Environment  #
+#####################
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+*.plist
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+.*.swp
+.swp
+
+#####################
+# Keystore / Signing #
+#####################
+
+*.keystore
+*.jks
+*.pem
+*.p12
+*.crt
+signing.properties
+
+###########################
+# Credentials & Secrets   #
+###########################
+
+.env
+*.env
+secret.properties
+
+###########################
+# Logs & Temp files       #
+###########################
+
+*.log
+*.tmp
+*.temp
+*.bak
+*.orig
+
+###########################
+# APK / AAB / Release     #
+###########################
+
+*.apk
+*.ap_
+*.aab
+*.aar
+
+/release/
+dist/
+output/
+captures/
+
+###########################
+# Android Assets & Cache  #
+###########################
+
+# Generated icons / Resize caches
+app/src/**/res/mipmap-*/ic_launcher*
+app/src/**/res/drawable*/ic_launcher*
+
+# Compose Preview cache
+**/.compose-cache/
+
+###########################
+# Gradle Wrapper          #
+###########################
+
+# Keep only needed wrapper files
+gradle-wrapper.jar
+gradlew
+gradlew.bat
+gradle/wrapper/
+
+###########################
+# Kotlin Tooling          #
+###########################
+
+*.kotlin_metadata
+*.kotlin_builtins
+*.kotlin_cache
+
+###########################
+# Jetpack Navigation      #
+###########################
+
+nav_debug.xml
+nav_release.xml
+
+###########################
+# Lint / Checkstyle       #
+###########################
+
+lint/tmp/
+lint/reports/

@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Fling</string>
+    <string name="tv_home_subtitle">TV Box için hızlı dosya paylaşımı</string>
+    <string name="tv_home_back_to_home">← Ana Ekran</string>
+    <string name="tv_home_last_transfers_title">Son Transferler</string>
+    <string name="tv_home_last_transfers_desc">
+        Son 100 transfer listelenir. DPAD ile kartlar arasında gezebilirsiniz.
+    </string>
+    <string name="tv_home_history_subtitle">Geçmişi görüntüle</string>
+    <string name="tv_home_receive_from_phone_title">Telefondan Al</string>
+    <string name="tv_home_receive_from_phone_sub_active">Alma aktif</string>
+    <string name="tv_home_receive_from_phone_sub_inactive">Almayı başlat</string>
+    <string name="tv_home_send_to_phone_title">Telefona Gönder</string>
+    <string name="tv_home_send_to_phone_sub_connected">Bağlı cihaza gönder</string>
+    <string name="tv_home_send_to_phone_sub_not_connected">Önce bağlantı kurun</string>
+    <string name="tv_home_lan_start">LAN Almayı Başlat</string>
+    <string name="tv_home_lan_stop">LAN Almayı Durdur</string>
+    <string name="tv_home_lan_subtitle">Aynı ağda daha hızlı</string>
+    <string name="tv_home_total_progress">Toplam İlerleme: %1$s</string>
+    <string name="tv_home_status">Durum: %1$s</string>
+    <string name="tv_home_folder">Klasör: %1$s</string>
+    <string name="tv_home_received_count">Alınan: %1$d / %2$d</string>
+    <string name="pin_verify_title">PIN Doğrulama</string>
+    <string name="pin_verify_body">
+        Telefon ekranındaki PIN ile aynı mı?
+
+        PIN: %1$s
+    </string>
+    <string name="pin_match">Eşleşiyor</string>
+    <string name="pin_mismatch">Eşleşmiyor</string>
+    <string name="nearby_pin_title">Nearby PIN</string>
+    <string name="lan_pin_title">LAN PIN</string>
+    <string name="nearby_pin_body">
+        Telefon ekranındaki PIN ile aynı olmalı.
+
+        PIN: %1$s
+
+        Onay işlemi telefonda yapılır.
+    </string>
+    <string name="lan_pin_body">
+        Telefon bu PIN\'i girerek bağlanacak.
+
+        PIN: %1$s
+    </string>
+    <string name="ok">Tamam</string>
+    <string name="dir_tv_from_phone">TV ← Telefon</string>
+    <string name="dir_tv_to_phone">TV → Telefon</string>
+    <string name="tv_status_trusted_named">Güvenilir: %1$s</string>
+    <string name="tv_status_pairing_pending_named">Eşleştirme bekleniyor: %1$s</string>
+    <string name="tv_status_paired_and_trusted_named">
+        Eşleştirildi ve güvene alındı: %1$s
+    </string>
+    <string name="tv_status_paired">Eşleştirildi</string>
+    <string name="tv_status_pin_mismatch_disconnected">
+        PIN uyuşmadı — bağlantı kesildi
+    </string>
+    <string name="tv_status_header_received_count">Header alındı: %1$d dosya</string>
+    <string name="tv_status_target_folder_not_selected">Hedef klasör seçilmedi!</string>
+    <string name="document_create_failed">Belge oluşturulamadı</string>
+    <string name="write_open_failed">Yazma açılamadı</string>
+    <string name="saved_progress">Kaydedildi (%1$d/%2$d): %3$s</string>
+    <string name="tv_status_transfer_in_progress">Aktarım id=%1$d: %2$d%%</string>
+    <string name="tv_status_transfer_completed_progress">
+        Tamamlandı id=%1$d — Toplam: %2$s
+    </string>
+    <string name="tv_status_transfer_error_id">Aktarım hatası (id=%1$d)</string>
+    <string name="tv_status_nearby_pin_waiting_token">Nearby PIN bekleniyor: %1$s</string>
+    <string name="tv_status_connection_failed">Bağlantı başarısız</string>
+    <string name="tv_status_advertising">Yayında</string>
+    <string name="tv_status_advertising_failed">Yayın başlatılamadı</string>
+    <string name="tv_status_idle">Beklemede</string>
+    <string name="tv_status_no_connected_phone">Bağlı telefon yok</string>
+    <string name="tv_status_no_file_selected">Dosya seçilmedi</string>
+    <string name="tv_status_send_to_phone_started_count">
+        Telefon’a gönderim başladı (%1$d)
+    </string>
+    <string name="tv_status_select_target_folder_first">Önce hedef klasör seç</string>
+    <string name="tv_status_lan_pin_label">LAN PIN: %1$s</string>
+    <string name="tv_status_lan_paired_named">LAN eşleştirildi: %1$s</string>
+    <string name="tv_status_lan_header_count">LAN Header: %1$d dosya</string>
+    <string name="tv_status_lan_select_files_first">LAN: Önce TV\'de dosya seç</string>
+    <string name="tv_status_lan_searching_phone">LAN: Telefon aranıyor…</string>
+    <string name="tv_status_lan_transfer_complete">LAN: Gönderim tamam</string>
+    <string name="tv_status_lan_error">LAN: Hata</string>
+</resources>
